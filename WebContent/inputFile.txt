@@ -1,0 +1,5 @@
+london,Europe/London,0
+paris,Europe/Paris,0
+toronto,America/Toronto,0
+sofia,Europe/Sofia,0
+chicago,America/Chicago,0
